@@ -1,4 +1,4 @@
-# HTML/CSS Email Template
+# HTML/CSS Project
 
 ## Table of Contents
 
